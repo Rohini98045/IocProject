@@ -6,7 +6,7 @@
 
 <bean id="d" class="com.main.Student">
 <property name="id" value="1"></property>
-<property name="name" value="Rohini"></property>
+<property name="name" value="Satish"></property>
 <property name="address" value="Jharkhand"></property>
 <property name="mobno" value="78965432"></property>
 </bean>
